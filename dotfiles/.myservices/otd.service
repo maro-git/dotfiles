@@ -1,0 +1,14 @@
+[Unit]
+Description=OpenTabletDriver daemon.
+
+[Service]
+Environment=DISPLAY=:0
+Type=exec
+User=maro
+Restart=always
+RestartSec=3
+WorkingDirectory=/home/maro/git/OpenTabletDriver/
+ExecStart=/home/maro/git/OpenTabletDriver/bin/OpenTabletDriver.Daemon
+
+[Install]
+WantedBy=multi.user.target
