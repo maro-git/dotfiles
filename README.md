@@ -30,3 +30,6 @@ pulseaudio\_widget ***luarocks install --local pulseaudio_widget***
 7.activate sddm
 8.install nvim
 9.install nerdfont
+10.install nvims plugins using vimplug
+11.install optimus manager using AUR
+12.That's it enjoy!
