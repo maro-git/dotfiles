@@ -3,18 +3,31 @@
 # requirements
 
 nerdfonts ***get it from https://github.com/ryanoasis/nerd-fonts***
+
 xorg
+
 xorg-xinit
+
 awesome
+
 OpenTabletDriver ***get it from opentabletdriver.net***
+
 git
+
 nvim
+
 ccls
+
 sddm
+
 optimus-manager ***on archlinux get the AUR package***
+
 luarocks3.8 ***https://github.com/luarocks/luarocks/wiki/Installation-instructions-for-Unix***
+
 power\_widget ***luarocks install --local power_widget***
+
 pulseaudio\_widget ***luarocks install --local pulseaudio_widget***
+
 
 
 # installation order
